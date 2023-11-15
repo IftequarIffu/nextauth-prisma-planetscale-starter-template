@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Firstly do:
+
+1) `npm install`
+2) Modify Env variables
+3) `npx prisma generate`
+4) `npm run dev`
+
 ## Getting Started
 
 First, run the development server:
